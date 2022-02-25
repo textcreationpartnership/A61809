@@ -1,0 +1,290 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of the reverence due to God in his publick worship a sermon preach'd before the King &amp; Queen, at White-Hall, March 25, 1694, being the 5th Sunday in Lent / by the Right Reverend Father in God, Nicholas Lord Bishop of Chester.</title>
+            <author>Stratford, Nicholas, 1633-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61809</idno>
+            <idno type="STC">Wing S5937</idno>
+            <idno type="STC">ESTC R687</idno>
+            <idno type="EEBO-CITATION">11944960</idno>
+            <idno type="OCLC">ocm 11944960</idno>
+            <idno type="VID">51310</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61809)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51310)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 516:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of the reverence due to God in his publick worship a sermon preach'd before the King &amp; Queen, at White-Hall, March 25, 1694, being the 5th Sunday in Lent / by the Right Reverend Father in God, Nicholas Lord Bishop of Chester.</title>
+                  <author>Stratford, Nicholas, 1633-1707.</author>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Warren for Thomas Bennet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: A sermon preach'd before the King and Queen.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Ecclesiastes V, 1 --  Sermons.</term>
+               <term>God --  Worship and love.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51310:1"/>
+            <pb facs="tcp:51310:1"/>
+            <p> 
+               <hi>Of the Reverence due to GOD in his Publick Worſhip.</hi>
+            </p>
+            <p>A SERMON Preach'd before the King &amp; Queen, AT WHITE-HALL, <hi>March</hi> 25, 1694. being the <hi>5th. Sunday</hi> in <hi>LENT.</hi>
+            </p>
+            <p>By the Right Reverend Father in God, <hi>NICHOLAS</hi> Lord Biſhop of <hi>Cheſter.</hi>
+            </p>
+            <p>
+               <hi>Publiſh'd by Their Majeſties Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Warren,</hi> for <hi>Thomas Bennet,</hi> at the Half-Moon in St. <hi>Paul</hi>'s Church-Yard, M DC XCIV.</p>
+            <pb facs="tcp:51310:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="3" facs="tcp:51310:2"/>
+            <head>A SERMON Preach'd before the King and Queen.</head>
+            <epigraph>
+               <bibl>ECCLES. V. j. former part.</bibl>
+               <q>
+                  <hi>Keep thy foot when thou goeſt to the Houſe of GOD.</hi>
+               </q>
+            </epigraph>
+            <p>IN the beginning of this Chapter <hi>Solomon</hi> pre<g ref="char:EOLhyphen"/>ſcribes ſeveral Rules to be obſerved by us in the Worſhip of God, as ever we expect to recommend our ſelves thereby to his Favour and Acceptance. The firſt of which is general, and extends to the whole publick Worſhip; the other are particular, relating to ſome ſpecial parts of it.</p>
+            <pb n="4" facs="tcp:51310:3"/>
+            <p> The general Rule is that which I have choſen to inſiſt upon, <hi>Keep thy foot when thou goeſt to the houſe of God.</hi>
+            </p>
+            <p>In treating of which, I ſhall, by God's Aſſi<g ref="char:EOLhyphen"/>ſtance, do theſe <hi>Three</hi> things.</p>
+            <list>
+               <item>I. I ſhall briefly ſhew the Meaning of the Words, and what is the Duty therein preſcri<g ref="char:EOLhyphen"/>bed.</item>
+               <item>II. I ſhall enforce the Duty by proper Argu<g ref="char:EOLhyphen"/>ments.</item>
+               <item>III. I ſhall ſuggeſt ſome further Helps by way of Direction, in order to the better Performance of it.</item>
+            </list>
+            <p>I. I ſhall briefly explain the Words, and ſhew what is the Duty therein preſcribed. <hi>Keep,</hi> or <hi>take heed to thy feet,</hi> ſo I read them; the <hi>Hebrew</hi> Let<g ref="char:EOLhyphen"/>ters being plural, though the Pointing, which I take to be but a late Invention of the <hi>Maſorites,</hi> is ſingular.</p>
+            <p>Take heed to thy Feet when thou <hi>goest,</hi> or ra<g ref="char:EOLhyphen"/>ther when thou <hi>comest:</hi> for ſo the Original Word ſignifies, and is ſo tranſlated in ſeveral o<g ref="char:EOLhyphen"/>ther <note place="margin">Numb. 10. 29. Geneſ. 19. 32.</note> places; and that it ought to be ſo render'd here, appears, becauſe all the Duties af<g ref="char:EOLhyphen"/>terward mentioned, to which this word in com<g ref="char:EOLhyphen"/>mon
+<pb n="5" facs="tcp:51310:3"/> belongs, are ſuch as are to be perform'd, not when we are <hi>going,</hi> but when we are <hi>come</hi> to the Houſe of God. So that I read the Words thus. <hi>Take heed to thy feet when thou comeſt to the houſe of God.</hi>
+            </p>
+            <p>The Jews were wont to expreſs their Reve<g ref="char:EOLhyphen"/>rence toward God, when they came to his Houſe to worſhip him, by putting off their Shooes at their Entrance into it. Whether this Cuſtom was derived from the Patriarchs before <note place="margin">Exod. 3. 5.</note> 
+               <hi>Moſes;</hi> or from that Command God gave to <hi>Moſes</hi> and <hi>Joſhua,</hi> To <hi>looſe their</hi> 
+               <note place="margin">Joſh. 5. 15.</note> 
+               <hi>ſhooes from off their feet, becauſe the place whereon they ſtood was holy ground,</hi> need not now be diſputed. It is ſufficient, that this Rite of Veneration was uſed by them, when they approach'd to God in his Publick Worſhip. Now that <hi>Solomon</hi> here al<g ref="char:EOLhyphen"/>ludes to this Practice, no Man, I think, will que<g ref="char:EOLhyphen"/>ſtion, who conſiders, That all other Accounts gi<g ref="char:EOLhyphen"/>ven of this Expreſſion, ſeem very foreign and im<g ref="char:EOLhyphen"/>pertinent to the Matter he here treats of.</p>
+            <p>The Duty therefore here injoin'd is, That we be<g ref="char:EOLhyphen"/>have our ſelves decently and reverently when we come to worſhip God in his Houſe. So that when <hi>Solomon</hi> ſays, <hi>Take heed to thy feet,</hi> he does in ef<g ref="char:EOLhyphen"/>fect ſay; Do not come rudely into the Houſe of God, nor behave thy ſelf careleſly when thou art
+<pb n="6" facs="tcp:51310:4"/> there; but addreſs thy ſelf to God with that Re<g ref="char:EOLhyphen"/>verence and <hi>godly Fear,</hi> which becomes ſo glorious and dreadful a Majeſty.</p>
+            <p>Before I proceed, that my Deſign may be clear<g ref="char:EOLhyphen"/>ly underſtood, I ſhall premiſe <hi>Two</hi> things.</p>
+            <p n="1">1. That which I intend to ſpeak to at preſent, is not that Reverence which is due to the Houſe, by which it ought to be diſtinguiſhed from all other Houſes, upon the account of its peculiar Relation to God: but that which we are to give to God, when we preſent our ſelves there to wor<g ref="char:EOLhyphen"/>ſhip him; in like manner as all thoſe particular Duties afterward mentioned, relating to the ſe<g ref="char:EOLhyphen"/>veral Parts of Worſhip there to be performed, are ſuch as immediately reſpect God himſelf.</p>
+            <p n="2">2. Though bodily Reverence is the only thing expreſſed in the Text, yet the Reverence of the Soul, of which that of the Body is but a Sign, is ſuppos'd and impli'd; ſince all outward Expreſ<g ref="char:EOLhyphen"/>ſions of Devotion, how ſolemn and pompous ſo<g ref="char:EOLhyphen"/>ever, which do not ariſe from within, are no better than Hypocriſie, and by conſequence are abhorr'd by God, <hi>who ſees in ſecret.</hi>
+            </p>
+            <p>So that the Reverence here requir'd, is both that of the inward, and that of the outward Man. That of the inward Man conſiſts in ſuch Thoughts and Affections, as are in ſome ſort becoming the
+<pb n="7" facs="tcp:51310:4"/> God we worſhip; in awful Apprehenſions of his glorious Majeſty, of his unſpotted Purity, of his unſearchable Wiſdom, of his Almighty Power, of his Preſence with us, and obſervant Eye over us: and in ſuch an humble ſenſe of our own Unwor<g ref="char:EOLhyphen"/>thineſs to be admitted into his Preſence, as be<g ref="char:EOLhyphen"/>comes us not only as we are his Creatures, but much more as we are Sinners. That of the outward Man conſiſts in ſuch a Deportment of the Body, as is a fit Expreſſion of the inward Re<g ref="char:EOLhyphen"/>verence of the Soul; As in ſtanding, bowing, kneeling, lifting up the Eyes and Hands toward Heaven; in diligent Attendance to his Word read and preach'd, and in other ſuch viſible ſigns, as open<g ref="char:EOLhyphen"/>ly declare, That we eſteem him worthy to receive <hi>all Bleſſing, and Honour, and Glory, and Power.</hi> Both theſe are our bounden Duty, eſpecially the for<g ref="char:EOLhyphen"/>mer; though the latter is that which my Text hath more immediate reſpect to. The Decency, ſays St. <hi>Chryſoſtome,</hi> required of us in pub<g ref="char:EOLhyphen"/>lick <note place="margin">
+                  <hi>Chryſ. de verb. Eſaiae, vid. Dom. Hom.</hi> 1.</note> Worſhip, is, firſt to approach unto God with a broken and contrite Heart; then to ſhew the inward Diſpoſition of the Heart, by the outward Deportment of the Body; as by ſtanding, by the decent compoſure of the Hands, by a meek and contracted Voice.</p>
+            <pb n="8" facs="tcp:51310:5"/>
+            <p> Now, that in our Approaches to God, we may thus reverence him both in Body and in Spirit, I proceed,</p>
+            <p>II. To enforce the Duty by ſuch Arguments, as will make it plainly appear, That all the Re<g ref="char:EOLhyphen"/>verence we can poſſibly give to him, is no more than what upon all accounts we ſtand indiſpen<g ref="char:EOLhyphen"/>ſably obliged to.</p>
+            <p>To which purpoſe let us conſider,</p>
+            <p n="1">1. The tranſcendent Excellencies of his Na<g ref="char:EOLhyphen"/>ture; That all Perfections of Being, not only meet in him; but are all in him without mea<g ref="char:EOLhyphen"/>ſure. That he is immenſely great in Wiſdom, Power, Goodneſs, Juſtice, Truth; and that in pro<g ref="char:EOLhyphen"/>portion to the Excellencies of his Nature is the Glory he inhabits; He dwelling in that Light to which no Man can approach. Such is the God we worſhip, in Glory inacceſſable, in Wiſdom unſearchable, in Power uncontrollable, in Truth immovable, in all other Perfections infinitely ex<g ref="char:EOLhyphen"/>alted above all Bleſſing and Praiſe.</p>
+            <p>And what are we? What but Earth and Aſhes, Smoak and Vapour, as St. <hi>Chryſoſtome</hi> ex<g ref="char:EOLhyphen"/>preſſes <note place="margin">
+                  <hi>Chryſ. in Act.</hi> c. 14. <hi>Hom.</hi> 30.</note> it? What is our Strength? What is our Wiſdom? What is our Power? How weak? How ſilly? How ſcanty? So near to nothing are
+<pb n="9" facs="tcp:51310:5"/> we, that we <hi>ſeem</hi> to be, rather than <hi>are,</hi> 
+               <note place="margin">Pſal. 39. 5, 6.</note> for <hi>Man walketh in a vain ſhew</hi> (as the <hi>Pſalmiſt</hi> ſpeaks); at our very beſt eſtate we are all Vanity. It is the Obſervation of the Father now mentioned, That when St. <hi>Paul</hi> would ſhew the diſtance between God and Man, he doth not re<g ref="char:EOLhyphen"/>preſent it to be ſo great, but we may conceive it to be much greater. For what ſays he? <note place="margin">
+                  <hi>Chryſ. de In<g ref="char:EOLhyphen"/>comprehenſ. Dei Nat. Hom.</hi> 2.</note> 
+               <hi>Shall the thing formed, ſay to him that form<g ref="char:EOLhyphen"/>ed it, Why haſt thou made me thus? Hath not the Potter power over the Clay, to make of the ſame lump one veſſel to honour, and another to diſho<g ref="char:EOLhyphen"/>nour?</hi> The diſtance, ſays he, between God and Man, is as great as that between the <hi>Potter</hi> and the <hi>Clay;</hi> Yea much greater; for if a Man ſeem more Noble and more Beautiful than the <hi>Clay,</hi> it is not the diverſity of Nature, but the Skill of the Artificer that hath made the difference: but ſo great is the diſtance between God and Man, that neither can the <hi>Tongue</hi> expreſs, nor the <hi>Mind</hi> con<g ref="char:EOLhyphen"/>ceive it.</p>
+            <p>Let us conſider,</p>
+            <p n="2">2. What God is to us; and in what Relation we ſtand to him.</p>
+            <p>It is he that raiſed us at firſt, out of Nothing into Being; that ſpake the word and we were made. And ſhall we not with the humbleſt
+<pb n="10" facs="tcp:51310:6"/> Reverence, fall down before the Lord our Ma<g ref="char:EOLhyphen"/>ker?</p>
+            <p>It is he, by whom we live and move, as well as have our Being; in whoſe hands our Breath is, and whoſe are all our Ways. And ſhall we not devoutly adore him, upon whom we continually ſo entirely depend, that we can neither breathe nor live, any longer than he ſuſtains us?</p>
+            <p>It is he, that daily poureth his Benefits upon us. All thoſe Enjoyments that render our Being, more deſireable than not to be, we owe ſolely to him as our conſtant <hi>Benefactour.</hi> And ſhall we not revere his Goodneſs, to whom we owe all the good things we enjoy? Shall we by our unſeem<g ref="char:EOLhyphen"/>ly Carriage toward him, provoke him to become our Enemy, who hath been ſo great a Friend to us?</p>
+            <p>It is he upon whom we depend for all future Bleſſings; from whoſe Bounty alone we can hope for the continuance of our Comforts in this World, and for an Immortal Bliſs in the next. And ſhall we not pay all poſſible Reſpect to him, by whom we hope to be made everlaſtingly happy?</p>
+            <p>It is he that hath redeemed us from the hands of our Enemies, not with ſuch poor corruptible things as Silver and Gold, but with the preci<g ref="char:EOLhyphen"/>ous Blood of his own beloved Son. Since there<g ref="char:EOLhyphen"/>fore
+<pb n="11" facs="tcp:51310:6"/> we are not our own, ought we not to glorifie him, both with our Body and Spirit, which he hath purchaſed at ſo dear a rate?</p>
+            <p>In ſhort, if the foregoing Conſiderations do not move us, let us once more conſider, That this God who is our Maker and Preſerver, our muni<g ref="char:EOLhyphen"/>ficent Benefactour, and moſt merciful Redeemer, is alſo our ſupreme Judge, from whoſe Sentence there lies no Appeal. <hi>We muſt,</hi> there is no avoid<g ref="char:EOLhyphen"/>ing it, but whether we will or no, we muſt all appear before his dreadful Tribunal, to give an account of our Behaviour toward him. And can we hope for a favourable Sentence from him, if in our moſt ſolemn Worſhip of him, we carry our ſelves toward him, as if he were a Being ſo mean, as deſerved not to be fear'd by us?</p>
+            <p>Conſider,</p>
+            <p n="3">3. That this great and incomprehenſible Maje<g ref="char:EOLhyphen"/>ſty, is in a peculiar manner preſent with us, when we aſſemble together in his Houſe to worſhip him. Though he be ſubſtantially preſent every where, yet in ſome places he is preſent in greater State, (as I may ſay) than in other, and by conſequence a more awful Deportment is there required of us. Heaven is the Place where he keeps his Court, where his chief Miniſters of State conſtantly at<g ref="char:EOLhyphen"/>tend his Throne, where he moſt illuſtriouſly diſ<g ref="char:EOLhyphen"/>plays
+<pb n="12" facs="tcp:51310:7"/> the Majeſty of his Glory, and from whence he diſpatches his Ambaſſadours to negotiate his Affairs in this lower World: But now as Earthly Kings have uſually their different Palaces, one in the Imperial City, ſurpaſſing all the reſt in Splen<g ref="char:EOLhyphen"/>dour and Magnificence; others of inferiour Note in more obſcure Palaces, and at a great diſtance from the Seat Imperial, ſo this King of kings who dwells in Heaven in Glory unapproachable by mortal Eyes, hath alſo his Manſion-houſes in which he dwells here on Earth, and hath his Of<g ref="char:EOLhyphen"/>ficers of State there alſo attending on him, though not in ſuch ſhining Robes as in Heaven. Such are the Places ſet apart for his Publick Worſhip; in theſe he is otherways preſent than in common Places, and therefore theſe are by way of diſtin<g ref="char:EOLhyphen"/>ction called in Scripture <hi>His Houſes,</hi> and He is ſaid to <hi>dwell</hi> in them. Thus he dwelt among his ancient People; firſt in the <hi>Tabernacle,</hi> as his move<g ref="char:EOLhyphen"/>able Houſe, while they were in their Travels thro' the Wilderneſs: and in the <hi>Temple</hi> afterward as his fixed Habitation, when they came to be ſet<g ref="char:EOLhyphen"/>tled in the Land of <hi>Canaan;</hi> as this latter is ex<g ref="char:EOLhyphen"/>preſly called by <hi>David</hi> his <hi>Palace,</hi> ſo he <note place="margin">2 Chron. 29. 1, 19.</note> himſelf ſaid of it, <hi>Here will I dwell, for I have a delight therein.</hi>
+            </p>
+            <pb n="13" facs="tcp:51310:7"/>
+            <p> If it be now enquired, how or in what manner, God is more peculiarly preſent in Church-Aſſem<g ref="char:EOLhyphen"/>blies, than in other places? Though I might ſhew you, that he is ſo, ſundry ways and in divers manners, and more particularly by the communi<g ref="char:EOLhyphen"/>cation of his Holy Spirit, to all thoſe who come duly prepared to receive it; yet as more proper to the Argument I am now upon, I Anſwer briefly, by the Preſence of his Heavenly Atten<g ref="char:EOLhyphen"/>dants, <note place="margin">See Mr. <hi>Mede</hi> upon this Text.</note> the Holy Angels; as a King is more eminently preſent where his Court is, than where he himſelf is alone in Perſon. Hence <hi>Jacob</hi> having ſeen a Viſion of Angels, upon his awake<g ref="char:EOLhyphen"/>ing ſays, <hi>Surely the Lord is in this place, and</hi> 
+               <note place="margin">Gen. 28. 16, 17.</note> 
+               <hi>I knew it not.</hi> What? did not <hi>Jacob</hi> know, that God was in every place, and by conſequence in that where he then was? Yea doubtleſs. The meaning therefore is, God is in a more ſolemn manner in this place than in others, he is here, as in his Palace, with his prime Miniſters attending on him; as appears by what follows, <hi>How dread<g ref="char:EOLhyphen"/>ful is this place? this is no other but the Houſe of God, this is the Gate of Heaven.</hi>
+            </p>
+            <p>Now that the Angels are preſent in the Aſſem<g ref="char:EOLhyphen"/>blies for his Worſhip, we have ſufficient evidence, both in the Old Teſtament and in the New. The <hi>Pſalmiſt</hi> ſpeaking of Mount <hi>Sion,</hi> the place ſet
+<pb n="14" facs="tcp:51310:8"/> apart for his publick Worſhip, ſays, <hi>The Chariot of God is twice ten thouſand, thouſands of An<g ref="char:EOLhyphen"/>gels, the Lord is among them,</hi> Sinai <hi>is in</hi> 
+               <note place="margin">Pſalm 68. 17.</note> 
+               <hi>the Sanctuary</hi> (ſo the words are to be render'd ac<g ref="char:EOLhyphen"/>cording to the Original.) By the Chariot of God is meant the Hoſt of Angels, by which God's ſpe<g ref="char:EOLhyphen"/>cial Preſence is convey'd from Heaven to Earth, and the plain meaning of the words is this, That a great Hoſt of Angels does now attend upon God in Mount <hi>Sion,</hi> the place of his Public Worſhip, as they did formerly on Mount <hi>Sinai,</hi> at the giving of the Law there. This Angelical Preſence was repreſented both in the Tabernacle and in the Temple; by the Figures of the Cherubin woven in the Curtains of the former, and carved in the Walls of the latter.</p>
+            <p>And if the Angels gave their attendance at the Jewiſh, can it be thought that they pay not as much reſpect to our Chriſtian Worſhip? If that low and carnal Service had ſo great an honour vouchſafed to it, can it be imagined, that that which is more Spiritual, and more becoming the Divine Nature ſhould have leſs? If any Man can entertain a thought ſo unreaſonable, he may ſoon be convinced of his error, by calling to remem<g ref="char:EOLhyphen"/>brance, That St. <hi>Paul</hi> took it for granted, that the Angels were preſent at Religious Chriſtian
+<pb n="15" facs="tcp:51310:8"/> Aſſemblies, and thought this alone a ſufficient Reaſon, why Women ſhould there preſent them<g ref="char:EOLhyphen"/>ſelves in a decent Dreſs. <hi>For this cauſe</hi> (ſaith he) <hi>ought the woman to have power</hi> 
+               <note place="margin">1 Cor. 11. 10.</note> 
+               <hi>on her head, becauſe of the Angels.</hi> By <hi>Power</hi> is here meant a Veil, the Token of her Husband's Power over her, (by a Trope not unuſual in Holy Scri<g ref="char:EOLhyphen"/>pture) ſo that the Meaning is, Such regard ought to be had to the Angels, who attend our Publick Worſhip, and obſerve our Demeanour in it, that the Woman, out of Reſpect to them, ought to be decently habited, to have a Covering on her Head, in token of her Subjection to her Husband. Were this peculiar Preſence of God with his Ho<g ref="char:EOLhyphen"/>ly Angels duly conſider'd, one would think it ſhould cauſe all Women profeſſing Godlineſs, to preſent themſelves in the Church, in a more modeſt and humble Dreſs, than ſome of them do.</p>
+            <p>To compoſe us yet to greater Reverence, let us conſider,</p>
+            <p n="4">4. What the Meaning and Intention of Divine Worſhip is. Is it not (as far as we are able) to honour God according to his excellent Great<g ref="char:EOLhyphen"/>neſs; to acknowledge the infinite diſtance that is between Him and us; to make profeſſion of our entire dependence upon him, and ſubjection to
+<pb n="16" facs="tcp:51310:9"/> him? This ſurely is the plain Import of every part of Religious Worſhip.</p>
+            <p>In praiſing God, We declare the peerleſs Ex<g ref="char:EOLhyphen"/>cellencies of his Nature, and aſcribe to him the Glory of his admirable Works. In putting up our Petitions to him, for the prevention or removal of all evil, and for the obtaining of all good things, we acknowledge his All-ſufficiency, and our own Emptineſs. And what do we elſe in Thankſgi<g ref="char:EOLhyphen"/>ving, but gratefully own our Obligations to his bounteous Goodneſs, for all the good things we either have or hope for?</p>
+            <p>Thus the Meaning of every Act of Divine Wor<g ref="char:EOLhyphen"/>ſhip, is to give Glory to God, by entertaining ſuch Thoughts of him, and Affections toward him, as are in ſome ſort ſuitable to the Perfections of his Nature, and to thoſe Relations we ſtand in to him; and by repreſenting to others by outward Signs, the inward Devotion of our Souls toward him.</p>
+            <p>And though it be true, That the Body may bow, when there is no ſubmiſſion of the Soul to God; the Hands may be lifted up to Heaven, when the Heart is in the Ends of the Earth: yet when the Soul is poſſeſſed with the Fear of God, it will naturally diſcover it ſelf by a ſuitable Com<g ref="char:EOLhyphen"/>poſure and Deportment of the Body. And there<g ref="char:EOLhyphen"/>fore when the outward Behaviour is ſuch, as no
+<pb n="17" facs="tcp:51310:9"/> way teſtifies our honourable Eſteem of God, we cannot truly be ſaid to worſhip him, becauſe we do not then honour, but rather deſpiſe him. And ſuch is the Carriage of too many Perſons in many of our Religious Aſſemblies, ſo far from giving God the Glory of his incomprehenſible Majeſty, that they durſt not behave themſelves ſo diſre<g ref="char:EOLhyphen"/>ſpectfully in the Preſence of their Earthly Prince; eſpecially when they come to pay their Homage to him, to receive his Commands, or to beg ſome great Favour of him. For would any Man ſhew that Contempt of his Prince as not to attend to his Voice, but turn away from him, and talk with another Man, while his Prince is ſignifying his Will and Pleaſure to him, and laying his Com<g ref="char:EOLhyphen"/>mands upon him? Would any Man laugh in his Prince's Face, at the ſame time, that he is beg<g ref="char:EOLhyphen"/>ging the Pardon of his Rebellions, and ſupplica<g ref="char:EOLhyphen"/>ting to him for his Life?</p>
+            <p>But how lightly ſoever theſe Perſons may be<g ref="char:EOLhyphen"/>have themſelves in the Church; if at any other time they can prevail with themſelves to be ſeri<g ref="char:EOLhyphen"/>ous, I beſeech them to conſider,</p>
+            <p n="5">5. How highly they hereby incenſe the Diſ<g ref="char:EOLhyphen"/>pleaſure of God againſt them. Contempt though from an Equal, can hardly be born with Pati<g ref="char:EOLhyphen"/>ence; how much more provoking muſt it needs
+<pb n="18" facs="tcp:51310:10"/> be from an Inferiour, and more yet from a De<g ref="char:EOLhyphen"/>pendent? Were another Man ſo entirely your Creature, that he could not ſtir a finger, or ſo much as draw one breath without you, would not any the leaſt Diſreſpect from him, greatly provoke your Diſpleaſure againſt him? With what Indig<g ref="char:EOLhyphen"/>nation then, think you, muſt the Sovereign Lord of All reſent the inſolent Contempts of ſuch poor impotent things, as cannot ſubſiſt a moment long<g ref="char:EOLhyphen"/>er than he pleaſes, and whom with the leaſt breath of his Diſpleaſure he can blow into Hell?</p>
+            <p>
+               <hi>By the blaſt of God they periſh, by the breath of his noſtrils they are conſumed,</hi> as <hi>Eli<g ref="char:EOLhyphen"/>phaz</hi> 
+               <note place="margin">Job 4. 9.</note> ſpeaks.</p>
+            <p>God is not wont, I grant, to ſuffer his Anger to break out upon the firſt provocation; nay, he com<g ref="char:EOLhyphen"/>monly bears long with the moſt preſumptuous Offenders. Such is his Goodneſs, that he is not willing that any ſhould periſh, he therefore gives them time to repent, and in that time lays before them the moſt powerful Motives to bring them to it. But though he bears long, yet he will not for ever bear with them; his Patience will have an end, and when that is once expired, his Wrath will kindle againſt them. And who knows the power of his Wrath? Can you think you ſhall have Courage to bear up againſt, or Strength to
+<pb n="19" facs="tcp:51310:10"/> reſiſt his Almighty Arm? Can the dry Stubble contend with devouring Fire? If not, it then concerns you to conſider,</p>
+            <p n="6">6. That our God is a conſuming Fire. This very Argument the Apoſtle uſes to awaken us to Fear and Reverence in his Worſhip. <hi>Let</hi> 
+               <note place="margin">Heb. 12. 28, 29.</note> 
+               <hi>us have Grace,</hi> ſaith he, <hi>to ſerve God ac<g ref="char:EOLhyphen"/>ceptably with reverence and godly fear,</hi> Why? <hi>for our God is a conſuming fire.</hi> The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the Stile of the <hi>New Teſtament</hi> more eſpecially, de<g ref="char:EOLhyphen"/>notes, that ſerving of God which conſiſts in his ſolemn Worſhip, and ſo plainly implies, That God is a conſuming Fire, not only to thoſe who do not worſhip him at all, but to thoſe alſo who worſhip him without <hi>Reverence,</hi> and <hi>godly Fear.</hi>
+            </p>
+            <p>Thus he was to <hi>Nadab</hi> and <hi>Abihu</hi> the Sons of <hi>Aaron,</hi> in the proper literal ſenſe; they <note place="margin">Lev. 10. 1, 2.</note> preſuming to offer Incenſe with common Fire, a Fire went out from the Lord and devou<g ref="char:EOLhyphen"/>red them. Should God be ſo ſevere to all thoſe, who offer up their Prayers to him with common Affections, and put no difference between their Deportment in his Houſe, and in any Civil Court, how many that come to the Church, would ne<g ref="char:EOLhyphen"/>ver go from it again, but would (as <hi>Ananias</hi> and <hi>Sapphira</hi> were) be ſtricken dead upon the place.</p>
+            <pb n="20" facs="tcp:51310:11"/>
+            <p>'Tis true, God ſeldom in compariſon ſhews himſelf ſo ſevere in this World, becauſe this is the Day of Grace; the Day of Vengeance is de<g ref="char:EOLhyphen"/>ferred till the next. All that Wrath which Sin<g ref="char:EOLhyphen"/>ners by their hard and impenitent Hearts, do here treaſure up unto themſelves, he reſerves it for them till that dreadful Day of Wrath, and of the Re<g ref="char:EOLhyphen"/>velation of his righteous Judgment, <hi>When</hi> 
+               <note place="margin">2 Theſſ. 1. 7, 8, 9.</note> 
+               <hi>the Lord Jeſus ſhall he revealed from Hea<g ref="char:EOLhyphen"/>ven with his mighty Angels in flaming fire; taking vengeance on them that know not God, and that obey not the Goſpel of our Lord Jeſus Christ; who ſhall be puniſhed with everlaſting deſtruction from the preſence of the Lord, and from the glory of his power.</hi> He will then be ſo conſuming a Fire, that his very Preſence will inflict everlaſting Deſtruction upon all thoſe, who either now chuſe not to know him, that they may without fear neglect him; or if they know him, refuſe to acknowledge and glorifie him as God. But were this Deſtruction ſuch as would put an end to their Being, it would be the leſs terrible; yea ſo far from being terrible to them in that diſmal State of Miſery; in which they will then be; that, might they have their Wiſh, they would beg no greater Favour of God, than to be reduc'd to nothing: But alas! they ſhall be deſtroy'd, not ſimply as to Being, but as
+<pb n="21" facs="tcp:51310:11"/> to all ſuch Being, as is not inexpreſſibly worſe than no Being; Nothing will remain to them, but to be caſt into Hell, <hi>where the worm di<g ref="char:EOLhyphen"/>eth</hi> 
+               <note place="margin">Mark 9. 44, 46, 48. Rev. 14. 11.</note> 
+               <hi>not, and the fire will never be quenched,</hi> but <hi>the ſmoak of their torments will aſcend for ever and ever.</hi> They will then be experimen<g ref="char:EOLhyphen"/>tally convinced, to their Eternal Sorrow, That <hi>it is a fearful thing to fall into the hands</hi> 
+               <note place="margin">Heb. 10. 31.</note> 
+               <hi>of the living God;</hi> of that God who lives for ever; and therefore will never ceaſe to inflict vengeance upon them. However they may think to trifle with God now, they will then find, to their woe, That he will not be mock'd.</p>
+            <p>To what hath been ſaid upon this Head, I ſhall add but one Conſideration more, which is ſuch as, one would think, ſhould be of force, if not to affright, yet at leaſt to ſhame <hi>Chriſtians,</hi> out of all careleſs and negligent Behaviour in the Houſe of God. And that is, That even <hi>Turks</hi> and <hi>Hea<g ref="char:EOLhyphen"/>thens,</hi> yea the very <hi>Devils,</hi> will riſe in Judgment againſt irreverent <hi>Chriſtians,</hi> and condemn them.</p>
+            <p>So devout are the <hi>Turks,</hi> that they ſuffer not themſelves, ſo much as to look about them, but perform their Religious Offices with ſuch Atten<g ref="char:EOLhyphen"/>tion of Mind, that they think they ſhould loſe the fruit of their Prayers, if they ſhould then but ſcratch their Head with their Finger; as an Eye<g ref="char:EOLhyphen"/>witneſs
+<pb n="22" facs="tcp:51310:12"/> informs us. <hi>For what,</hi> ſay they, <note place="margin">
+                  <hi>Buſbeq. E<g ref="char:EOLhyphen"/>piſt.</hi> 3.</note> 
+               <hi>if when a Man is to ſpeak with the</hi> Ba<g ref="char:EOLhyphen"/>ſhaws, <hi>his whole Body is compoſed to Reverence; how much greater Reaſon is there, that the ſame Reſpect ſhould be given to</hi> GOD, <hi>who ſo much exceeds all humane Heighth and Greatneſs.</hi> So intent, they think, they ought to be at their Prayers, as not to be diver<g ref="char:EOLhyphen"/>ted, though the Execution of the <hi>Sultan</hi>'s Decree, ſhould in the ſame moment be comman<g ref="char:EOLhyphen"/>ded, <note place="margin">Sir <hi>Paul Ry<g ref="char:EOLhyphen"/>caut</hi>'s <hi>Preſent State</hi> of the <hi>Ottoman</hi> Empire, lib. 2. chap. 23. <hi>Edit.</hi> 1.</note> (as another Author tells us.)</p>
+            <p>For <hi>Heathens,</hi> it may ſuffice to ſay, That this was one of <hi>Pythagoras</hi>'s Precepts, <hi>When</hi> 
+               <note place="margin">Lilii Greg. Gyrald. Pythag. Symb. Interpret.</note> 
+               <hi>thou comest into the Temple worſhip, and while thou art there do nothing elſe.</hi> And another of his Rules was, <hi>That no Man ſhould go into a Temple when he is in a Journey.</hi> The mean<g ref="char:EOLhyphen"/>ing of which is, That God ſhould not be wor<g ref="char:EOLhyphen"/>ſhipped by the bye, or when a Man is otherwiſe employed; but with the greateſt Solemnity and Intention of Mind. <hi>Numa Pompilius</hi> decreed, That his Citizens ſhould neither ſee, nor hear Divine Matters, in a careleſs manner, and with wander<g ref="char:EOLhyphen"/>ing Thoughts; but laying aſide all diſtractions of Mind, ſhould wholly apply their Meditations to Religion. And <hi>Plutarch</hi> tells us, That <note place="margin">In the <hi>Life</hi> of <hi>Numa Pom<g ref="char:EOLhyphen"/>pilius.</hi>
+               </note> he took care, that in the Time of Di<g ref="char:EOLhyphen"/>vine
+<pb n="23" facs="tcp:51310:12"/> Worſhip, no noiſe ſhould be heard in the Streets, which might obſtruct or diſturb the ſeri<g ref="char:EOLhyphen"/>ouſneſs of Devotion: what ſhall I ſay more? Thoſe who believe the Being of God, and yet do not Reverence him as God, the very Devils will riſe up in Judgment againſt them: for though I do not ſay they worſhip God, yet 'tis certain they do not deſpiſe him, but dread the thoughts of his Power and Juſtice; for <hi>the Devils believe and tremble.</hi> 
+               <note place="margin">Jam. 2. 19.</note>
+            </p>
+            <p>I proceed now in the</p>
+            <p>III. And laſt place, to ſuggeſt ſome further helps by way of direction, in order to the better performance of this Duty. I ſay further helps, be<g ref="char:EOLhyphen"/>cauſe all the Arguments before-mention'd are ſo many helps towards it. And,</p>
+            <p n="1">1. That we may the more devoutly worſhip God in his Houſe, let us before we come thither lay aſide our worldly Thoughts and Affections. <hi>Let no man</hi> (as St. <hi>Chryſoſtom</hi> ſpeaks) <hi>enter</hi> 
+               <note place="margin">
+                  <hi>In Vid. Dom. Hom.</hi> 1.</note> 
+               <hi>the Church, having the cares of this World about him; no man with a wandering and diſtracted mind; but let him lay all theſe down without the doors, and ſo let him come. For coming thither</hi> (as <note place="margin">
+                  <hi>In Cap.</hi> 1. <hi>E<g ref="char:EOLhyphen"/>vang. Johan. Hom.</hi> 1.</note> he ſays in another place) <hi>We come to Hea<g ref="char:EOLhyphen"/>ven, not in reſpect of the place indeed, but</hi>
+               <pb n="24" facs="tcp:51310:13"/> 
+               <hi>of the temper and diſpoſition of our minds; for a Man while he lives on Earth, may aſcend to Heaven, and take a view of the things that are there,</hi> &amp;c. <hi>Let no Man therefore in the Church think of his domeſtic affairs; but on the contrary while he is yet at home, let him begin thoſe things he is to do in the Church.</hi>
+            </p>
+            <p>Unleſs we thus leave the cares of this Life be<g ref="char:EOLhyphen"/>hind us, we ſhall do nothing leſs, than that which we pretend is the only thing we come to do. For the bare preſenting of our bodies before God, can by no means be interpreted a worſhipping of him, if our carriage be ſuch as plainly teſtifies, That our hearts are far from him. They therefore have lit<g ref="char:EOLhyphen"/>tle reaſon to reckon themſelves in the number of his ſincere Worſhippers, whoſe thoughts in his Houſe are ſo much ſet on the things of this World, that they cannot prevail with themſelves to for<g ref="char:EOLhyphen"/>bear talking of them, even while the Di<g ref="char:EOLhyphen"/>vine <note place="margin">The Leſſons, Epiſtle, and Goſpel.</note> Oracles are reading; which one would think ſhould (if any thing) com<g ref="char:EOLhyphen"/>mand their attention, as being the Voice of God without any Gloſs, or Comment upon it of Man's Deviſing.</p>
+            <p n="2">2. In order to the looſening of our thoughts from earthly things, and raiſing them up to the things above. Let us when we are going to his
+<pb n="25" facs="tcp:51310:13"/> Houſe reflect upon ſuch like Conſiderations, as thoſe I have before propoſed. Let us ſeriouſly conſider the moſt adorable Majeſty of that God we are going to worſhip; That he is of purer Eyes, than to behold Evil, and cannot look upon Iniquity; that he <hi>will not hold them guiltleſs that take his name in vain.</hi> And when we are come in<g ref="char:EOLhyphen"/>to his Houſe, let us eſpecially remember, That his holy and jealous Eye is upon us, to obſerve not only the Deportment of our Bodies, but the moſt ſecret Motions and Inclinations of our Souls. Were our Minds thus poſſeſſed with a quick ſenſe, that this Great, and Glorious, and Holy, and All<g ref="char:EOLhyphen"/>mighty God, hath his Eyes conſtantly upon us, could we ſuffer our own Eyes to be always rowl<g ref="char:EOLhyphen"/>ing, as if our only Buſineſs in coming to the Church, were to obſerve what Faces and Faſhions do there preſent themſelves?</p>
+            <p n="3">3. Let us ſeriouſly conſider, of what great mo<g ref="char:EOLhyphen"/>ment, to our ſelves, every part of the Divine Wor<g ref="char:EOLhyphen"/>ſhip is. What is it we ask of God in our Pray<g ref="char:EOLhyphen"/>ers? Is it ſo ſmall a thing, that our Condition will not be much the better or the worſe, whether it be granted or denied us? Oh no! It is nothing leſs than the Pardon of our Sins, and the Aſſi<g ref="char:EOLhyphen"/>ſtance of his Grace, to be delivered from his
+<pb n="26" facs="tcp:51310:14"/> Wrath, and to be received into his Favour; which if we obtain, we ſhall be inconceivably happy; if we miſs, we ſhall be for ever intolerably miſerable. And can we be too ſerious, too intent, too earneſt in begging ſuch things as theſe? What is the con<g ref="char:EOLhyphen"/>ſequence of our Thankſgiving, when it is ſincere and hearty? Is it not the continuance of thoſe Bleſſings which we have already received, and the procuring of thoſe which we yet want? Were we ſure, that what we now have would abide with us for ever, and that we ſhould never ſtand in need of more, we might then think our ſelves the leſs concerned, to return Thanks for what is paſs'd: but alas! it is not ſo with us; whatſoever we have is God's, and he may recal it when he pleaſes: and nothing can more highly provoke him to deprive us of our preſent Enjoyments, than our Unthankfulneſs for them. <hi>Becauſe ſhe knew not that I gave her her corn, and wine,</hi> 
+               <note place="margin">Hoſ. 2. 8, 9.</note> 
+               <hi>and oil, and multiplied her ſilver and gold; therefore will I return, and take away my corn in the time there<g ref="char:EOLhyphen"/>of, and my wine in the ſeaſon thereof,</hi> &amp;c. So God threatned unthankful <hi>Iſrael.</hi>
+            </p>
+            <p>Is the Word of God read and preach'd of ſuch little concernment to us, that it matters not much, whether we attend to it or not? Is it not the Rule,
+<pb n="27" facs="tcp:51310:14"/> according to which we ſhall be judged, at the great and dreadful Day? So St. <hi>Paul</hi> tells us, <hi>God,</hi> ſaith he, <hi>ſhall judge the ſecrets of men</hi> 
+               <note place="margin">Rom. 2. 16.</note> 
+               <hi>according to my Goſpel.</hi> Yea, the Judge himſelf hath told us the ſame. <hi>He that</hi> 
+               <note place="margin">John 12. 48.</note> 
+               <hi>rejecteth me, and receiveth not my words, hath one that judgeth him, the word that I have ſpoken, the ſame ſhall judge him at the last day.</hi> All they to whom the Goſpel is publiſhed, ſhall be judg'd by the Goſpel; and as that either acquits or condemns them, ſo ſhall they receive their Sentence from the mouth of the Judge. And can we pay too awful Attention to that Book which contains thoſe Rules of Righteouſneſs, by which we ſhall be tried, and adjudged to a State of Weal or Woe for ever? Conſidering therefore that every part of the Divine Worſhip, is of ſuch high Importance to our ſelves, we cannot ſurely be too attentive and reverent in the performance of it? If all that hath been hitherto ſaid, ſhould not be thought enough, to compoſe us to a devout Frame of Spi<g ref="char:EOLhyphen"/>rit; Let us conſider,</p>
+            <p n="4">4. The near approach of Death, and that af<g ref="char:EOLhyphen"/>ter Death comes the Judgment. How ſoon this earthly Tabernacle may be diſſolved we cannot tell; the preſent inſtant is all that we are ſure of,
+<pb n="28" facs="tcp:51310:15"/> the remainder of our Time is wholly in God's hand, and who knows but he may contract it to the next moment? Do we not almoſt daily hear of ſome who are ſuddenly cut off? But the long<g ref="char:EOLhyphen"/>eſt term to which our Hopes can extend, how ſhort is it? For what are <hi>Forty, Fifty,</hi> or <hi>Sixty</hi> Years more? Will they not paſs away as a Sha<g ref="char:EOLhyphen"/>dow? Be in truth as ſhort as thoſe have been which are already paſs'd, which now they are paſs'd, ſeem nothing to us? They who now make their Religion but a matter of Drollery, when grim Death ſhall ſtare them in the face, their <hi>Thoughts,</hi> as well as their <hi>Countenances,</hi> will then be changed. That <hi>Noble Earl,</hi> who in the times of his health treated God and Religion, with as much Contempt, as his profane Wit was able to invent; what awful Thoughts had he of the Di<g ref="char:EOLhyphen"/>vine Majeſty, when Death preſented it ſelf to his view? How paſſionately did he then cry out to a Gentleman that came to viſit him; <hi>O remember, that You contemn God no more; he is an avenging God, and will viſit You for Your Sins.</hi>
+            </p>
+            <p>But did Death put an end to our Being, it would then be no great matter, whether God were our Friend or our Enemy; but as ſure as it is, that we muſt die, ſo certain is it, that we ſhall be
+<pb n="29" facs="tcp:51310:15"/> brought to Judgment. <hi>Rejoice, O young man, in thy youth, and let thine heart cheer</hi> 
+               <note place="margin">Eccleſ. 11. 9.</note> 
+               <hi>ther in the days of thy youth, and walk in the ways of thy heart, and in the ſight of thine eyes: but know thou, that for all theſe things God will bring thee into judgment.</hi> O the Tremblings and the Agonies they will then be ſeized with, who are now ſo mer<g ref="char:EOLhyphen"/>rily diſpoſed, that they cannot prevail with them<g ref="char:EOLhyphen"/>ſelves to be ſerious, when employed in the weigh<g ref="char:EOLhyphen"/>tieſt Buſineſs in the World! How ghaſtly and diſtractedly will they then look, who now ſport themſelves with all that is Sacred? The Buffoon will then be ſtruck dumb with Horrour and A<g ref="char:EOLhyphen"/>mazement, who now makes it his common Di<g ref="char:EOLhyphen"/>vertiſement to ridicule Religion. Into what diſ<g ref="char:EOLhyphen"/>mal Cries and Lamentations, will their Rantings and Revellings then be changed? O were there any place for Hope left, with what Sorrow would I now confeſs my Sins, which I formerly made a mock of! How earneſtly would I implore the Mercy of God, for the Pardon of them! How importunate<g ref="char:EOLhyphen"/>ly would I pray for the Grace of God's Holy Spi<g ref="char:EOLhyphen"/>rit, to give me a new Heart! How attentively would I liſten to thoſe Divine Leſſons, I formerly deſpiſed! And how careful would I be to put them in practice! But Oh! it is now too late; the
+<pb n="30" facs="tcp:51310:16"/> Door is ſhut, and will never again be ſet open to me. No Cries nor Tears, no Sighs nor Groans will now avail; the Judge is inexorable, nothing remains, but that I ſuffer the Vengeance of that God, whoſe <hi>Grace</hi> and <hi>Mercy</hi> I formerly ſet at nought.</p>
+            <p>Did we ſet before our Eyes the Terrours of the Lord; could we carry it ſo to his Face, as to pro<g ref="char:EOLhyphen"/>voke his Wrath againſt us? No doubtleſs, had we a vigorous ſenſe of theſe things upon our Hearts, how devout ſhould we be in our Prayers? How attentive in hearing God's Word? How careful to remember, and put in practice what we hear? In a word, How ſhould we then <hi>work out our ſal<g ref="char:EOLhyphen"/>vation with fear and trembling?</hi> I ſhall add but one Help more, and that is,</p>
+            <p n="5">5. Let us pray earneſtly to God, to give us his Holy Spirit, to excite in us an awful ſenſe of his Glorious Majeſty, to inſpire us with heavenly and devout Thoughts and Affections; to open our Hearts to attend to his Word; and to com<g ref="char:EOLhyphen"/>poſe our Minds to a ſteady attendance to every part of Divine Worſhip. If we thus pray with our whole Heart, our Requeſts will certainly be granted. For ſo God hath promiſed. <hi>If thou criest after knowledge, and liftest up</hi> 
+               <note place="margin">Prov. 2. 3, 5.</note>
+               <pb n="31" facs="tcp:51310:16"/> 
+               <hi>thy voice for underſtanding, then ſhalt thou underſtand the fear of the Lord, and find the knowledge of God.</hi> Thou ſhalt then experimentally know, what it is to be truly Religious, and ſhalt find thy ſelf ty<g ref="char:EOLhyphen"/>ed by the ſtrongeſt Bonds imaginable moſt de<g ref="char:EOLhyphen"/>voutly to worſhip the Almighty Creatour, Pre<g ref="char:EOLhyphen"/>ſerver and Governour of the World. <hi>To whom be aſcribed,</hi> &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
